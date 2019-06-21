@@ -5,5 +5,8 @@ take care by someone
 process on untreate
 remote
 take
+<<<<<<< HEAD
 person
+=======
 person
+>>>>>>> 35e91c6d7acd565dfa385ba830dc3d66bf5e284d
